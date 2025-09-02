@@ -12,7 +12,8 @@ c. Illustrate the relationship between UI and UX in design.
 d. Demonstrate various UI/UX design tools in detail.
 ```
 ## Output:
-[Uploading UI AND UX EXP1.pdf…]()
+[UI AND UX EXP1.pdf](https://github.com/user-attachments/files/22090109/UI.AND.UX.EXP1.pdf)
+
 
 
 ## Result:
